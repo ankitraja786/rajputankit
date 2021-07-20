@@ -1,0 +1,9 @@
+{//git/rajputankit/@$}
+ {secret code}
+ s-deployserver
+ git-add.
+ git-init
+ git-commit-m index file
+ git-remote -v
+ git-push origin main -u index.html
+ git close
