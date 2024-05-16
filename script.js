@@ -41,8 +41,8 @@ isParagraph = false;
 // Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
 var textArray = [
 " Hi, I am Ankit Raja",
-"A Competitive Coder",
-"I'm a passionate Software Developer"
+"I'm  a Software Developer in Xebia",
+"A Competitive Coder"
 ];
 
 // Speed (in milliseconds) of typing.
